@@ -10236,7 +10236,12 @@ h3 {
   padding-left: 14px;
   border-left: 1px solid #e9ecef;
 }
+.img-pant {
 
+  max-width: 100%;
+  height: auto;
+
+}
 .floating-label-form-group-with-value label {
   top: 0;
   opacity: 1;

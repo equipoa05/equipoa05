@@ -1,4 +1,5 @@
-### Hi there 👋
+### CdeCMX Challenge 2020
+Repositorio para el Sitio Web del Challenge
 
 <!--
 **equipoa05/equipoa05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
